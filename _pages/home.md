@@ -14,7 +14,7 @@ feature_row:
     url: "/about"
     btn_class: "btn--primary"
     btn_label: "Read the roadmap"
-    image_path: /assets/images/rm-cover.png
+    image_path: /assets/images/rm-cover.jpg
   - title: "Videos"
     excerpt: "What’s included in the latest release? Check out the list of updates."
     url: "/videos"
