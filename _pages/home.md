@@ -30,3 +30,4 @@ feature_row:
     btn_class: "btn--primary"
     btn_label: "Go to resources"
 ---
+{% include feature_row %}
